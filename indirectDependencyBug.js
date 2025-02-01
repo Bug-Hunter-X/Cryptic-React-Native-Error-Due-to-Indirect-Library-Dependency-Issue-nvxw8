@@ -1,0 +1,1 @@
+This error occurs when you are using a library that depends on another library which is not properly installed or linked.  It often manifests as a seemingly unrelated error message, making debugging difficult. For example, you might be working with a mapping library, and you get an error related to a different dependency in your project.
